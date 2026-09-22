@@ -13,16 +13,18 @@ Knusprig, würzig und ganz ohne Mehl – die Puffer schmecken nach Zucchini, nic
 - 🧅 2 kleine rote Zwiebeln
 - 🧄 **3 Knoblauchzehen**
 
-### Bindung & Würze
+### Bindung
 - 🥚 2 Eier (Größe M)
 - 🧀 40 g Parmesan, frisch gerieben
 - 🍞 6 EL Paniermehl (Semmelbrösel)
-- 🍋 1 Spritzer Zitronensaft
-- 🧂 1 TL Salz (zum Entwässern der Zucchini)
-- 🧂 ½ TL Salz (für die Masse)
+
+### Gewürze
+- 🧂 1 TL Salz — **zum Entwässern** der Zucchini-Raspel
+- 🧂 ½ TL Salz — für die Würzflüssigkeit
 - 🌶️ ½ TL Paprikapulver
 - ⚫ ¼ TL schwarzer Pfeffer
-- 🌰 1 Prise frisch geriebene Muskatnuss
+- 🌰 1 Messerspitze frisch geriebene Muskatnuss
+- 🍋 1 Spritzer Zitronensaft
 
 ### Zum Braten
 - 🫒 2–3 EL Pflanzenöl (hitzestabil, z. B. Raps- oder Sonnenblumenöl)
@@ -31,11 +33,11 @@ Knusprig, würzig und ganz ohne Mehl – die Puffer schmecken nach Zucchini, nic
 
 ## 👨‍🍳 Vorbereitung
 
-1. 🥒 **Zucchini raspeln:** Die Zucchini mit einer groben Reibe direkt in ein Sieb raspeln, mit **1 TL Salz** bestreuen und gut durchmischen.
-2. ⏳ **15 Minuten ziehen lassen.** Das Salz zieht in dieser Zeit die Flüssigkeit aus den Raspeln. Währenddessen Zwiebeln und die 3 Knoblauchzehen fein würfeln und den Parmesan reiben.
-3. 💦 **Gründlich ausdrücken:** Die Zucchiniraspel portionsweise mit den Händen kräftig im Sieb auspressen. Je trockener die Raspel, desto knuspriger die Puffer – hier ruhig zweimal nachdrücken.
-4. 🥣 **Würzflüssigkeit anrühren:** 2 Eier mit Zitronensaft, ½ TL Salz, Paprikapulver, Pfeffer und Muskatnuss verquirlen.
-5. 🌀 **Masse mischen:** Zucchiniraspel, Parmesan, Zwiebel- und Knoblauchwürfel sowie 6 EL Paniermehl unter die Eimasse heben. Wirkt die Masse noch zu feucht, einfach 1–2 EL Paniermehl nachgeben.
+1. 🥒 **Zucchini raspeln:** Die 900 g Zucchini waschen, den Strunk abschneiden und auf der **groben Seite der Reibe** direkt in ein Sieb raspeln. **1 TL Salz** darüberstreuen und durchmischen.
+2. ⏳ **15 Minuten ziehen lassen.** Das Salz entzieht den Raspeln in dieser Zeit Flüssigkeit. Währenddessen 2 rote Zwiebeln und die **3 Knoblauchzehen** schälen und fein würfeln, 40 g Parmesan fein reiben.
+3. 💦 **Gründlich ausdrücken:** Die Zucchini-Raspel im Sieb mit den Händen kräftig auspressen und die Flüssigkeit abgießen. Je trockener die Raspel, desto knuspriger die Puffer – ruhig zweimal nachdrücken.
+4. 🧂 **Gewürze anrühren:** In einer Schüssel mit dem Schneebesen **2 Eier, 1 Spritzer Zitronensaft, ½ TL Salz, ½ TL Paprikapulver, ¼ TL schwarzen Pfeffer und 1 Messerspitze frisch geriebene Muskatnuss** verquirlen.
+5. 🌀 **Masse mischen:** Die flüssige Würze mit den Zucchini-Raspeln, dem Parmesan, den Zwiebel- und Knoblauchwürfeln sowie **6 EL Paniermehl** vermengen. Wirkt die Masse noch zu feucht, einfach etwas mehr Paniermehl untermengen.
 
 ---
 
@@ -43,7 +45,7 @@ Knusprig, würzig und ganz ohne Mehl – die Puffer schmecken nach Zucchini, nic
 
 1. 🌡️ Die Plancha auf **ca. 200–230 °C** (mittlere bis hohe Hitze) vorheizen. Ein Tropfen Wasser muss sofort zischen.
 2. 🫒 Die Platte dünn mit Öl einpinseln bzw. 2–3 EL Öl aufziehen lassen.
-3. 🥄 Die Masse mit einem Eisportionierer oder zwei Esslöffeln direkt auf die Plancha setzen und mit dem Pfannenwender flach drücken (ca. 1 cm dick).
+3. 🥄 Die Masse ist stabil genug, dass Du Größe und Dicke frei bestimmen kannst. Für eine schön „ausgefranste" Form mit einem Eisportionierer oder zwei Esslöffeln direkt auf die Plancha setzen und mit dem Pfannenwender flach drücken (ca. 1 cm dick).
 4. ⏱️ **Pro Seite ca. 3–4 Minuten** goldbraun braten, dann einmal wenden. Nicht zu früh wenden – die Kruste muss sich von der Platte lösen.
 5. 🧻 Fertige Puffer kurz auf Küchenpapier abtropfen lassen und am Rand der Plancha bei niedriger Hitze warmhalten, während der Rest brät.
 
