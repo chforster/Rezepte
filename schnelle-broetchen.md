@@ -1,6 +1,6 @@
 # 🥖 Schnelle Brötchen
 
-Knusprig außen, flaumig innen – und in unter einer Stunde fertig! Diese schnellen Brötchen brauchen kein langes Gehen und kein Vorheizen: Der Multidampfgarer übernimmt die ganze Arbeit. Perfekt fürs spontane Sonntagsfrühstück.
+Knusprig außen, flaumig innen – und in gut einer Stunde fertig! Diese schnellen Brötchen brauchen kein langes Gehen und kein Vorheizen: Der Multidampfgarer übernimmt die ganze Arbeit. Perfekt fürs spontane Sonntagsfrühstück.
 
 **Ergibt:** 8 Brötchen · **Aktiv:** 15 Min · **Passiv:** 45–55 Min · **Schwierigkeit:** leicht
 
