@@ -41,7 +41,7 @@ Knusprig außen, flaumig innen – und in gut einer Stunde fertig! Diese schnell
 
 ### 🔥 Backen
 
-9. Direkt im Anschluss das Programm **„Brot backen“** wählen und bei **200 °C** für **25 Minuten** goldbraun backen. Vorheizen ist nicht notwendig.
+9. Direkt im Anschluss das Programm **„Brot backen“** wählen und bei **200 °C** für **25-30 Minuten** goldbraun backen. Vorheizen ist nicht notwendig.
 10. Kurz auf einem Gitter auskühlen lassen – und noch warm genießen!
 
 ---
